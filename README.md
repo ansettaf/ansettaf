@@ -1,48 +1,48 @@
 # 👨‍💻 Anas — Systems & Low-Level Programmer
 
-Bienvenue sur mon GitHub !  
-Je suis étudiant à **UM6P** et passionné par la programmation bas-niveau en **C**.  
-Tous mes projets sont développés **from scratch** (sans frameworks modernes), pour montrer la maîtrise des **fondamentaux informatiques** : mémoire, systèmes, compilation, OS, réseaux.
+Welcome to my GitHub!  
+I’m a student at **UM6P** and passionate about **low-level programming in C**.  
+Most of my projects are built **from scratch** (without modern frameworks), to demonstrate a strong understanding of **computer science fundamentals**: memory, systems, compilers, operating systems, networks.
 
 ---
 
-## 🚀 Mes Projets en C
+## 🚀 Projects in C
 
-| Projet | Description |
-|--------|-------------|
-| [Application-de-chat-TCP-IP](https://github.com/ansettaf/Application-de-chat-TCP-IP-) | Chat en C utilisant **sockets TCP** |
-| [Bibliothèque de structures de données](https://github.com/ansettaf/Biblioth-que-de-structures-de-donn-es) | Implémentations pro de **listes, piles, tables de hachage…** |
-| [Mini-Compilateur-Langage](https://github.com/ansettaf/Mini-Compilateur-Langage) | Un **mini compilateur** qui traduit un langage `.mc` en bytecode |
-| [Mini-Système d’Exploitation (Simulation)](https://github.com/ansettaf/Mini-Syst-me-d-Exploitation-Simulation-) | Simulation d’un **OS miniature** (process, mémoire, FS) |
-| [Mini Shell](https://github.com/ansettaf/-Mini-Shell-C-Project-) | Un **shell Unix simplifié** (fork/exec, pipes, parsing) |
-| [Jeu Vidéo (C + SDL2)](https://github.com/ansettaf/Jeu-Vid-o-avec-Graphiques-C-SDL-) | Démo d’un moteur de jeu 2D en **C/SDL2** |
-| [Système de gestion bancaire](https://github.com/ansettaf/Bank-Management-System-CLI-) | Simulation d’une banque en **CLI C** |
-| [Gestion des étudiants](https://github.com/ansettaf/Syst-me-de-gestion-des-tudiants) | Gestion académique via fichiers et **structs C** |
-| [Gestion de bibliothèque](https://github.com/ansettaf/Syst-me-de-gestion-de-biblioth-que-CLI-) | Logiciel de gestion de livres en **CLI** |
-
----
-
-## 🏆 Pourquoi ces projets ?
-Si tu ne connais pas le langage **C**,  
-👉 ne te présente pas comme un **programmeur**.  
-
-Car **tout est construit sur C** : systèmes d’exploitation, compilateurs, réseaux, drivers…  
-
-Ces projets démontrent une vraie maîtrise des **fondations de l’informatique**.  
+| Project | Description |
+|---------|-------------|
+| [TCP-IP Chat Application](https://github.com/ansettaf/Application-de-chat-TCP-IP-) | Real-time chat using **C sockets (TCP/IP)** |
+| [Data Structures Library](https://github.com/ansettaf/Biblioth-que-de-structures-de-donn-es) | Professional implementations of **lists, stacks, hash tables…** |
+| [Mini Compiler](https://github.com/ansettaf/Mini-Compilateur-Langage) | A **mini compiler** that translates a custom `.mc` language into bytecode |
+| [Mini Operating System (Simulation)](https://github.com/ansettaf/Mini-Syst-me-d-Exploitation-Simulation-) | Simulation of a **tiny OS** (processes, memory, file system) |
+| [Mini Shell](https://github.com/ansettaf/-Mini-Shell-C-Project-) | A **simplified Unix shell** (fork/exec, pipes, parsing) |
+| [2D Game (C + SDL2)](https://github.com/ansettaf/Jeu-Vid-o-avec-Graphiques-C-SDL-) | A 2D game engine demo in **C/SDL2** |
+| [Bank Management System](https://github.com/ansettaf/Bank-Management-System-CLI-) | Bank simulation in **C CLI** |
+| [Student Management System](https://github.com/ansettaf/Syst-me-de-gestion-des-tudiants) | Academic management with **C structs and file storage** |
+| [Library Management System](https://github.com/ansettaf/Syst-me-de-gestion-de-biblioth-que-CLI-) | CLI-based book management in **C** |
 
 ---
 
-## ⚡ Stack Technique
-- **Langages :** C, Python, Bash, **Node.js**, **Java**, Flutter (mobile)  
-- **Outils :** Git, GCC, Makefile, GDB, npm, Gradle/Maven  
-- **Environnements :** Linux (Arch btw), UNIX-like, CLI-first  
-- **Domaines :**  
-  - Programmation système & bas niveau  
-  - Réseaux & protocoles  
-  - Compilation & OS  
-  - Développement web avec **Node.js**  
-  - Développement mobile avec **Flutter**  
-  - Développement orienté objets avec **Java**  
+## 🏆 Why these projects?
+If you don’t understand **C**,  
+👉 don’t call yourself a **programmer**.  
+
+Because everything is built on top of **C**: operating systems, compilers, networks, drivers…  
+
+These projects show solid mastery of the **foundations of computer science**.  
+
+---
+
+## ⚡ Tech Stack
+- **Languages:** C, Python, Bash, **Node.js**, **Java**, **Flutter (Dart)**  
+- **Tools:** Git, GCC, Makefile, GDB, npm, Gradle/Maven  
+- **Environments:** Linux (**Arch btw** 🐧), UNIX-like, CLI-first  
+- **Domains:**  
+  - Systems & low-level programming  
+  - Networking & protocols  
+  - Compilers & Operating Systems  
+  - Backend development with **Node.js**  
+  - Mobile development with **Flutter**  
+  - Object-oriented programming with **Java**
 
 ---
 
@@ -60,6 +60,6 @@ Ces projets démontrent une vraie maîtrise des **fondations de l’informatique
 ---
 
 ## 📫 Contact
-- 📍 UM6P, Maroc  
-- 💼 LinkedIn / Portfolio (bientôt en ligne)  
-- 🖤 Passion : **Comprendre la machine à bas niveau**
+- 📍 UM6P, Morocco  
+- 💼 LinkedIn / Portfolio (coming soon)  
+- 🖤 Passion: **Understanding the machine at the lowest level**
