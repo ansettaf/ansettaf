@@ -1,4 +1,4 @@
-# 👨‍💻 Anas — Systems & Low-Level Programmer
+# 👨‍💻 Anass — Systems & Low-Level Programmer
 
 Welcome to my GitHub!  
 I’m a student at **UM6P** and passionate about **low-level programming in C**.  
