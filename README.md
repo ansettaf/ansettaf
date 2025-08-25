@@ -60,6 +60,6 @@ These projects show solid mastery of the **foundations of computer science**.
 ---
 
 ## 📫 Contact
-- 📍 UM6P, Morocco  
+- 📍 ifrane, Morocco  
 - 💼 LinkedIn / Portfolio (coming soon)  
 - 🖤 Passion: **Understanding the machine at the lowest level**
