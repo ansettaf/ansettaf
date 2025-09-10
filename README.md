@@ -1,7 +1,7 @@
 # 👨‍💻 Anass — Systems & Low-Level Programmer
 
 Welcome to my GitHub!  
-I’m a student at  and passionate about **low-level programming in C**.  
+I’m a student   and passionate about **low-level programming in C**.  
 Most of my projects are built **from scratch** (without modern frameworks), to demonstrate a strong understanding of **computer science fundamentals**: memory, systems, compilers, operating systems, networks.
 
 ---
