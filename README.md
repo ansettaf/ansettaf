@@ -1,7 +1,8 @@
 # 👨‍💻 Anass — Systems & Low-Level Programmer
 
 Welcome to my GitHub!  
-I’m a student passionate about **low-level programming in C** and building projects from scratch. My work demonstrates deep understanding of **computer science fundamentals**, including memory management, systems programming, compilers, operating systems, and networks.
+I’m a student passionate about **low-level programming in C** and building projects from scratch. My work demonstrates deep understanding of **computer science fundamentals**, including memory management, systems programming, compilers, operating systems, and networks.  
+I am currently expanding my skills in **cybersecurity**, leveraging my knowledge in **C, Python, and Java**.
 
 ---
 
@@ -37,6 +38,39 @@ I’m a student passionate about **low-level programming in C** and building pro
 - **Tools:** Git, GCC, Makefile, GDB, npm, Gradle/Maven  
 - **Environments:** Linux (Arch 🐧), UNIX-like, CLI-first  
 - **Domains:** Systems programming, Networking, OS & Compilers, Web & Backend, Mobile Development, OOP (Java)
+
+---
+
+## 🛡️ Cybersecurity Learning Roadmap
+
+I am currently building my cybersecurity expertise. My learning path:
+
+### 1️⃣ Foundational & Core (Beginner)
+- CompTIA Security+  
+- eLearnSecurity Junior Penetration Tester (eJPT)
+
+### 2️⃣ Specialization Paths (Intermediate)
+
+#### 🔴 Red Team / Penetration Testing
+- Skills: Exploit development, vulnerability assessment, ethical hacking  
+- Certification: Offensive Security Certified Professional (OSCP)
+
+#### 🔵 Blue Team / SOC
+- Skills: Monitoring, incident response, malware analysis  
+- Certifications: CompTIA CySA+, GIAC Certified Incident Handler (GCIH)
+
+#### ☁️ Cloud Security
+- Skills: Cloud infrastructure security, IAM, compliance  
+- Certifications: Certified Cloud Security Professional (CCSP), AWS Certified Security - Specialty
+
+### 3️⃣ Advanced & Leadership (Advanced)
+- GIAC Certified Forensic Analyst (GCFA)  
+- Offensive Security Web Expert (OSWE)  
+- Certified Information Security Manager (CISM)  
+- Certified Information Systems Security Professional (CISSP)
+
+**My Approach:** Start with beginner certs → focus on Red Team → hands-on labs/CTFs → expand to Blue Team/Cloud → advanced certs.  
+> Practice is key: Python automation, C for binary exploits, Java for application security.
 
 ---
 
