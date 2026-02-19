@@ -16,8 +16,6 @@ I am currently expanding my skills in **cybersecurity**, leveraging my knowledge
 | [telc-exam](https://github.com/ansettaf/telc-exam) | HTML | Practice for web-based exams, simple HTML projects. |
 | [Quote API](https://github.com/ansettaf/Quote-API-node-js-Expess) | JavaScript | REST API built with Node.js + Express; serves a random quote. |
 | [My Portfolio Site](https://github.com/ansettaf/My-portfolio-site) | HTML | Personal portfolio website showcasing projects. |
-| [UM6P 42 Network](https://github.com/ansettaf/UM6P_42_Network) | C | All projects completed during my 42 Network pool. |
-| [1337 Bot Notifications](https://github.com/ansettaf/1337_bot_nofications) | JavaScript | Notification bot with automated alerts. |
 | [2D Game (C + SDL2)](https://github.com/ansettaf/Jeu-Vid-o-avec-Graphiques-C-SDL-) | C + SDL2 | Simple 2D game engine demo. |
 | [Mini Compiler](https://github.com/ansettaf/Mini-Compilateur-Langage) | C | Translates custom `.mc` language into bytecode. |
 | [Mini OS Simulation](https://github.com/ansettaf/Mini-Syst-me-d-Exploitation-Simulation-) | C | Tiny OS simulation (processes, memory, file system). |
