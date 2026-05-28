@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Your new animated GIF header -->
-  <img src="PASTE_YOUR_RAW_GIF_LINK_HERE" width="250" alt="Header Animation"/>
+  <img src="https://raw.githubusercontent.com/ansettaf/gif/main/miku.gif" width="250" alt="Miku Header"/>
   
   <br/><br/>
 
