@@ -5,22 +5,23 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;lines=Low-Level+Programmer+%7C+C+Enthusiast+%F0%9F%92%BB%3BOS+%7C+Compilers+%7C+Networks+%7C+Sockets+%F0%9F%8C%90%3BCybersecurity+in+progress...+%F0%9F%9B%A1%EF%B8%8F%3BArch+Linux+%7C+CLI-First+%7C+No+GUI+needed+%F0%9F%90%A7%3BBuilding+from+scratch.+Always.+%F0%9F%94%A7" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;lines=Low-Level+Programmer+%7C+C+Enthusiast;OS+%7C+Compilers+%7C+Networks+%7C+Sockets;Cybersecurity+in+progress...;Arch+Linux+%7C+CLI-First+%7C+No+GUI+needed;Building+from+scratch.+Always." alt="Typing SVG"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=ansettaf&amp;color=00d4ff&amp;style=flat-square&amp;label=👁️+Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ansettaf&amp;color=00d4ff&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views"/>
   <a href="https://github.com/ansettaf?tab=followers">
     <img src="https://img.shields.io/github/followers/ansettaf?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=7c3aed" alt="GitHub followers"/>
   </a>
-  <img src="https://img.shields.io/badge/📍-Ifrane%2C_Morocco_🇲🇦-00d4ff?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎯-Systems_%26_Cybersec-7c3aed?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Ifrane%2C_Morocco-00d4ff?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Systems_%26_Cybersec-7c3aed?style=flat-square" alt="Focus"/>
 
 </div>
+
 ---
 
-## 🧬 Who Am I?
+## Identity
 
 ```c
 /*
@@ -43,9 +44,9 @@ typedef struct {
 
 Developer anass = {
     .name        = "Anass",
-    .location    = "Ifrane, Morocco 🇲🇦",
+    .location    = "Ifrane, Morocco",
     .role        = "Systems & Low-Level Programmer",
-    .learning    = "Cybersecurity | CompTIA Security+ | eJPT → OSCP",
+    .learning    = "Cybersecurity | CompTIA Security+ | eJPT -> OSCP",
     .tools       = { "C", "Python", "Bash", "GDB", "GCC", "Arch Linux", NULL },
     .loves_c     = true,
     .motto       = "Understand the machine. Master everything above it."
@@ -59,26 +60,11 @@ int main(void) {
 
 ---
 
-## 🐍 Watch Me Eat My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ansettaf/ansettaf/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ansettaf/ansettaf/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ansettaf/ansettaf/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-
----
-
-## ⚙️ Tech Arsenal
+## Technical Arsenal
 
 <div align="center">
 
-### 🔤 Languages
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -88,7 +74,7 @@ int main(void) {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🛠️ Tools & Environments
+### Tools & Environments
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -99,7 +85,7 @@ int main(void) {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🛡️ Cybersecurity Toolkit
+### Cybersecurity Toolkit
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -110,62 +96,62 @@ int main(void) {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| 🏗️ Project | 🛠️ Stack | ✨ What It Does |
-|:-----------|:--------|:--------------|
-| [🐚 Mini Shell](https://github.com/ansettaf/-Mini-Shell-C-Project-) | `C` | Unix shell clone — fork/exec, pipes, I/O redirections |
-| [🖥️ Mini OS Simulation](https://github.com/ansettaf/Mini-Syst-me-d-Exploitation-Simulation-) | `C` | Simulates processes, memory management & file system |
-| [⚙️ Mini Compiler](https://github.com/ansettaf/Mini-Compilateur-Langage) | `C` | Lexer + Parser → custom `.mc` bytecode |
-| [🌐 TCP-IP Chat](https://github.com/ansettaf/Application-de-chat-TCP-IP-) | `C` | Real-time multi-client chat using raw sockets |
-| [📚 Data Structures Library](https://github.com/ansettaf/Biblioth-que-de-structures-de-donn-es) | `C` | Linked lists, stacks, queues, hash tables |
-| [🎮 2D Game Engine](https://github.com/ansettaf/Jeu-Vid-o-avec-Graphiques-C-SDL-) | `C + SDL2` | Graphics, collision detection, game loop |
-| [🔐 CompTIA Security Study](https://github.com/ansettaf/-CompTIA-Security-) | `—` | Security concepts, CTF prep, tools & notes |
-| [🤖 Discord Logger](https://github.com/ansettaf/logger_discord) | `Python` | Automated Discord message logger bot |
-| [🌍 Quote REST API](https://github.com/ansettaf/Quote-API-node-js-Expess) | `Node.js` | Express API serving random quotes |
-| [🛡️ COD Trust Check](https://github.com/ansettaf/cod-trust-check) | `Next.js` | NovaCast platform onboarding, user anomalies & admin dashboard |
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [Mini Shell](https://github.com/ansettaf/-Mini-Shell-C-Project-) | `C` | Unix shell clone — fork/exec, pipes, I/O redirections |
+| [Mini OS Simulation](https://github.com/ansettaf/Mini-Syst-me-d-Exploitation-Simulation-) | `C` | Simulates processes, memory management & file system |
+| [Mini Compiler](https://github.com/ansettaf/Mini-Compilateur-Langage) | `C` | Lexer + Parser -> custom `.mc` bytecode |
+| [TCP-IP Chat](https://github.com/ansettaf/Application-de-chat-TCP-IP-) | `C` | Real-time multi-client chat using raw sockets |
+| [Data Structures Library](https://github.com/ansettaf/Biblioth-que-de-structures-de-donn-es) | `C` | Linked lists, stacks, queues, hash tables |
+| [2D Game Engine](https://github.com/ansettaf/Jeu-Vid-o-avec-Graphiques-C-SDL-) | `C + SDL2` | Graphics, collision detection, game loop |
+| [CompTIA Security Study](https://github.com/ansettaf/-CompTIA-Security-) | `—` | Security concepts, CTF prep, tools & notes |
+| [Discord Logger](https://github.com/ansettaf/logger_discord) | `Python` | Automated Discord message logger bot |
+| [Quote REST API](https://github.com/ansettaf/Quote-API-node-js-Expess) | `Node.js` | Express API serving random quotes |
+| [COD Trust Check](https://github.com/ansettaf/cod-trust-check) | `Next.js` | NovaCast platform onboarding, user anomalies & admin dashboard |
 
 </div>
 
 ---
 
-## 🛡️ Cybersecurity Roadmap
+## Cybersecurity Roadmap
 
-```
+```text
  ┌─────────────────────────────────────────────────────────┐
- │              CYBERSECURITY LEARNING PATH                 │
+ │              CYBERSECURITY LEARNING PATH                │
  └─────────────────────────────────────────────────────────┘
 
- 🟢 FOUNDATIONS
+ [+] FOUNDATIONS
  ├── CompTIA Security+     [████████░░░░] In Progress
  └── eJPT                  [████░░░░░░░░] Started
 
- 🔴 RED TEAM  ← Current Focus
+ [*] RED TEAM  <- Current Focus
  ├── OSCP                  [░░░░░░░░░░░░] Planned
  ├── Exploit Development   [███░░░░░░░░░] Learning (C + Python)
  └── Binary Exploitation   [██░░░░░░░░░░] Learning
 
- 🔵 BLUE TEAM / SOC
+ [-] BLUE TEAM / SOC
  ├── CompTIA CySA+         [░░░░░░░░░░░░] Queued
  └── GCIH                  [░░░░░░░░░░░░] Queued
 
- ☁️ CLOUD SECURITY
+ [~] CLOUD SECURITY
  ├── CCSP                  [░░░░░░░░░░░░] Future
  └── AWS Security Specialty[░░░░░░░░░░░░] Future
 
- 🏆 ADVANCED
+ [>] ADVANCED
  ├── GCFA  (Forensics)     [░░░░░░░░░░░░] Future
  ├── OSWE  (Web Expert)    [░░░░░░░░░░░░] Future
  └── CISSP                 [░░░░░░░░░░░░] Future
 ```
 
-> **My weapons:** `C` for binary exploits · `Python` for automation · `Java` for application security
+> **Focus:** `C` for binary exploits | `Python` for automation | `Java` for application security
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
@@ -182,15 +168,17 @@ int main(void) {
 
 ---
 
-## 🏆 Trophies
+## Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansettaf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ansettaf/ansettaf/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ansettaf/ansettaf/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ansettaf/ansettaf/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
-
----
-
-## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansettaf&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f59e0b&area=true&hide_border=true&area_color=00d4ff20" width="100%"/>
@@ -202,7 +190,7 @@ int main(void) {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
 
-### 📫 Let's Connect
+### Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansettaf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansettaf)
