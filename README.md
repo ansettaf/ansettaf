@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://github.com/ansettaf.png" width="180" alt="Anass Profile Picture"/>
+  <!-- Your new animated GIF header -->
+  <img src="PASTE_YOUR_RAW_GIF_LINK_HERE" width="250" alt="Header Animation"/>
   
   <br/><br/>
 
