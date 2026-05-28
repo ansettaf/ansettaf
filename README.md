@@ -14,8 +14,8 @@
   <a href="https://github.com/ansettaf?tab=followers">
     <img src="https://img.shields.io/github/followers/ansettaf?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=7c3aed" alt="GitHub followers"/>
   </a>
-  <img src="https://img.shields.io/badge/Ifrane%2C_Morocco-00d4ff?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Systems_%26_Cybersec-7c3aed?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Ifrane%2C_Morocco-00d4ff?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-Systems_%26_Cybersec-7c3aed?style=flat-square" alt="Focus"/>
 
 </div>
 
@@ -24,6 +24,9 @@
 ## Identity
 
 ```c
+#include <stdio.h>
+#include <stdbool.h>
+
 /*
  *  ▄▄▄       ███▄    █  ▄▄▄        ██████  ██████
  * ▒████▄     ██ ▀█   █ ▒████▄    ▒██    ▒ ▒██    ▒
@@ -33,16 +36,16 @@
  */
 
 typedef struct {
-    char *name;
-    char *location;
-    char *role;
-    char *learning;
-    char *tools[];
-    bool  loves_c;
-    char *motto;
+    const char *name;
+    const char *location;
+    const char *role;
+    const char *learning;
+    const char *tools[7];
+    bool        loves_c;
+    const char *motto;
 } Developer;
 
-Developer anass = {
+const Developer anass = {
     .name        = "Anass",
     .location    = "Ifrane, Morocco",
     .role        = "Systems & Low-Level Programmer",
@@ -64,29 +67,28 @@ int main(void) {
 
 <div align="center">
 
-### Languages
-
+### Core Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Tools & Environments
+### Web & Mobile
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### Toolchain & Environments
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-FF6600?style=for-the-badge&logo=gnu&logoColor=white)
 ![Make](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=cmake&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Cybersecurity Toolkit
-
+### Offensive Security Toolkit
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -96,28 +98,28 @@ int main(void) {
 
 ---
 
-## Featured Projects
+## Architecture & Systems Projects
 
 <div align="center">
 
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [Mini Shell](https://github.com/ansettaf/-Mini-Shell-C-Project-) | `C` | Unix shell clone — fork/exec, pipes, I/O redirections |
-| [Mini OS Simulation](https://github.com/ansettaf/Mini-Syst-me-d-Exploitation-Simulation-) | `C` | Simulates processes, memory management & file system |
-| [Mini Compiler](https://github.com/ansettaf/Mini-Compilateur-Langage) | `C` | Lexer + Parser -> custom `.mc` bytecode |
-| [TCP-IP Chat](https://github.com/ansettaf/Application-de-chat-TCP-IP-) | `C` | Real-time multi-client chat using raw sockets |
-| [Data Structures Library](https://github.com/ansettaf/Biblioth-que-de-structures-de-donn-es) | `C` | Linked lists, stacks, queues, hash tables |
-| [2D Game Engine](https://github.com/ansettaf/Jeu-Vid-o-avec-Graphiques-C-SDL-) | `C + SDL2` | Graphics, collision detection, game loop |
-| [CompTIA Security Study](https://github.com/ansettaf/-CompTIA-Security-) | `—` | Security concepts, CTF prep, tools & notes |
-| [Discord Logger](https://github.com/ansettaf/logger_discord) | `Python` | Automated Discord message logger bot |
-| [Quote REST API](https://github.com/ansettaf/Quote-API-node-js-Expess) | `Node.js` | Express API serving random quotes |
-| [COD Trust Check](https://github.com/ansettaf/cod-trust-check) | `Next.js` | NovaCast platform onboarding, user anomalies & admin dashboard |
+| Project | Stack | Technical Overview |
+| :--- | :--- | :--- |
+| **[Mini Shell](https://github.com/ansettaf/-Mini-Shell-C-Project-)** | `C` | Unix shell clone featuring process fork/exec workflows, piping, and I/O redirections. |
+| **[Mini OS Simulation](https://github.com/ansettaf/Mini-Syst-me-d-Exploitation-Simulation-)** | `C` | Simulates core OS functionalities including process scheduling, memory allocation, and file systems. |
+| **[Mini Compiler](https://github.com/ansettaf/Mini-Compilateur-Langage)** | `C` | Custom language compiler implementing a robust Lexer and Parser, targeting `.mc` bytecode. |
+| **[TCP-IP Chat](https://github.com/ansettaf/Application-de-chat-TCP-IP-)** | `C` | Real-time multi-client communication application leveraging low-level raw sockets. |
+| **[Data Structures](https://github.com/ansettaf/Biblioth-que-de-structures-de-donn-es)** | `C` | Optimized implementations of linked lists, stacks, queues, and scalable hash tables. |
+| **[2D Game Engine](https://github.com/ansettaf/Jeu-Vid-o-avec-Graphiques-C-SDL-)** | `C / SDL2` | Lightweight 2D engine handling rendering, collision detection mathematics, and a strict game loop. |
+| **[CompTIA Security](https://github.com/ansettaf/-CompTIA-Security-)** | `—` | Curated documentation, CTF playbooks, and structured notes for core security concepts. |
+| **[Discord Logger](https://github.com/ansettaf/logger_discord)** | `Python` | Automated data-collection bot built for autonomous message logging via Discord APIs. |
+| **[Quote REST API](https://github.com/ansettaf/Quote-API-node-js-Expess)** | `Node.js` | High-performance Express API infrastructure serving dynamic data payloads. |
+| **[COD Trust Check](https://github.com/ansettaf/cod-trust-check)** | `Next.js` | NovaCast platform onboarding infrastructure with telemetry and automated admin dashboards. |
 
 </div>
 
 ---
 
-## Cybersecurity Roadmap
+## Security Engineering Roadmap
 
 ```text
  ┌─────────────────────────────────────────────────────────┐
@@ -147,11 +149,11 @@ int main(void) {
  └── CISSP                 [░░░░░░░░░░░░] Future
 ```
 
-> **Focus:** `C` for binary exploits | `Python` for automation | `Java` for application security
+> **Primary Tooling:** `C` for binary exploitation & reverse engineering | `Python` for rapid automation & scripting | `Java` for enterprise application security analysis.
 
 ---
 
-## GitHub Statistics
+## Analytics & Contributions
 
 <div align="center">
 
@@ -166,9 +168,7 @@ int main(void) {
 
 </div>
 
----
-
-## Activity Graph
+<br/>
 
 <div align="center">
   <picture>
@@ -190,14 +190,14 @@ int main(void) {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
 
-### Contact
+### Establish Connection
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansettaf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansettaf)
 
 ---
 
-*"True mastery comes from understanding **C**.*
+*"True mastery comes from understanding **C**.*<br/>
 *All higher-level systems — OS, compilers, drivers — are built on C."*
 
 </div>
