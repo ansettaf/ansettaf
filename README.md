@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:00d4ff,100:7c3aed&amp;height=220&amp;section=header&amp;text=Anass&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Systems%20%26%20Low-Level%20Programmer&amp;descAlignY=58&amp;descSize=22&amp;descColor=00d4ff" width="100%" alt="Header"/>
+  <img src="https://github.com/ansettaf.png" width="180" alt="Anass Profile Picture"/>
+  
+  <br/><br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;lines=Low-Level+Programmer+%7C+C+Enthusiast+%F0%9F%92%BB%3BOS+%7C+Compilers+%7C+Networks+%7C+Sockets+%F0%9F%8C%90%3BCybersecurity+in+progress...+%F0%9F%9B%A1%EF%B8%8F%3BArch+Linux+%7C+CLI-First+%7C+No+GUI+needed+%F0%9F%90%A7%3BBuilding+from+scratch.+Always.+%F0%9F%94%A7" alt="Typing SVG"/>
