@@ -71,7 +71,6 @@ int main(void) {
   </picture>
 </div>
 
-> ⚙️ **To activate the snake:** Add the `snake.yml` workflow file (provided in this repo) under `.github/workflows/`, then run it manually once from the **Actions** tab.
 
 ---
 
