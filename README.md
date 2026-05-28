@@ -126,6 +126,7 @@ int main(void) {
 | [🔐 CompTIA Security Study](https://github.com/ansettaf/-CompTIA-Security-) | `—` | Security concepts, CTF prep, tools & notes |
 | [🤖 Discord Logger](https://github.com/ansettaf/logger_discord) | `Python` | Automated Discord message logger bot |
 | [🌍 Quote REST API](https://github.com/ansettaf/Quote-API-node-js-Expess) | `Node.js` | Express API serving random quotes |
+| [🛡️ COD Trust Check](https://github.com/ansettaf/cod-trust-check) | `Next.js` | NovaCast platform onboarding, user anomalies & admin dashboard |
 
 </div>
 
