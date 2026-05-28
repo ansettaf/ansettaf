@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:00d4ff,100:7c3aed&amp;height=220&amp;section=header&amp;text=Anass&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Systems%20%26%20Low-Level%20Programmer&amp;descAlignY=58&amp;descSize=22&amp;descColor=00d4ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:00d4ff,100:7c3aed&amp;height=220&amp;section=header&amp;text=Anass&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Systems%20%26%20Low-Level%20Programmer&amp;descAlignY=58&amp;descSize=22&amp;descColor=00d4ff" width="100%" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;lines=Low-Level+Programmer+%7C+C+Enthusiast+%F0%9F%92%BB;OS+%7C+Compilers+%7C+Networks+%7C+Sockets+%F0%9F%8C%90;Cybersecurity+in+progress...+%F0%9F%9B%A1%EF%B8%8F;Arch+Linux+%7C+CLI-First+%7C+No+GUI+needed+%F0%9F%90%A7;Building+from+scratch.+Always.+%F0%9F%94%A7)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;lines=Low-Level+Programmer+%7C+C+Enthusiast+%F0%9F%92%BB%3BOS+%7C+Compilers+%7C+Networks+%7C+Sockets+%F0%9F%8C%90%3BCybersecurity+in+progress...+%F0%9F%9B%A1%EF%B8%8F%3BArch+Linux+%7C+CLI-First+%7C+No+GUI+needed+%F0%9F%90%A7%3BBuilding+from+scratch.+Always.+%F0%9F%94%A7" alt="Typing SVG"/>
+  </a>
 
-<br/>
+  <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ansettaf&amp;color=00d4ff&amp;style=flat-square&amp;label=👁️+Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/ansettaf?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=7c3aed)](https://github.com/ansettaf?tab=followers)
-![Location](https://img.shields.io/badge/📍-Ifrane%2C_Morocco_🇲🇦-00d4ff?style=flat-square)
-![Focus](https://img.shields.io/badge/🎯-Systems_%26_Cybersec-7c3aed?style=flat-square)
-
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ansettaf&color=00d4ff&style=flat-square&label=👁️+Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/ansettaf?style=flat-square&logo=github&label=Followers&color=7c3aed)](https://github.com/ansettaf?tab=followers)
-![Location](https://img.shields.io/badge/📍-Ifrane%2C_Morocco_🇲🇦-00d4ff?style=flat-square)
-![Focus](https://img.shields.io/badge/🎯-Systems_%26_Cybersec-7c3aed?style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=ansettaf&amp;color=00d4ff&amp;style=flat-square&amp;label=👁️+Profile+Views" alt="Profile Views"/>
+  <a href="https://github.com/ansettaf?tab=followers">
+    <img src="https://img.shields.io/github/followers/ansettaf?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=7c3aed" alt="GitHub followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/📍-Ifrane%2C_Morocco_🇲🇦-00d4ff?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎯-Systems_%26_Cybersec-7c3aed?style=flat-square" alt="Focus"/>
 
 </div>
-
 ---
 
 ## 🧬 Who Am I?
