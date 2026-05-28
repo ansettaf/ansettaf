@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00d4ff,100:7c3aed&height=220&section=header&text=Anass&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Low-Level%20Programmer&descAlignY=58&descSize=22&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:00d4ff,100:7c3aed&amp;height=220&amp;section=header&amp;text=Anass&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Systems%20%26%20Low-Level%20Programmer&amp;descAlignY=58&amp;descSize=22&amp;descColor=00d4ff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=680&lines=Low-Level+Programmer+%7C+C+Enthusiast+%F0%9F%92%BB;OS+%7C+Compilers+%7C+Networks+%7C+Sockets+%F0%9F%8C%90;Cybersecurity+in+progress...+%F0%9F%9B%A1%EF%B8%8F;Arch+Linux+%7C+CLI-First+%7C+No+GUI+needed+%F0%9F%90%A7;Building+from+scratch.+Always.+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;lines=Low-Level+Programmer+%7C+C+Enthusiast+%F0%9F%92%BB;OS+%7C+Compilers+%7C+Networks+%7C+Sockets+%F0%9F%8C%90;Cybersecurity+in+progress...+%F0%9F%9B%A1%EF%B8%8F;Arch+Linux+%7C+CLI-First+%7C+No+GUI+needed+%F0%9F%90%A7;Building+from+scratch.+Always.+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ansettaf&color=00d4ff&style=flat-square&label=👁️+Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/ansettaf?style=flat-square&logo=github&label=Followers&color=7c3aed)](https://github.com/ansettaf?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=ansettaf&amp;color=00d4ff&amp;style=flat-square&amp;label=👁️+Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/ansettaf?style=flat-square&amp;logo=github&amp;label=Followers&amp;color=7c3aed)](https://github.com/ansettaf?tab=followers)
 ![Location](https://img.shields.io/badge/📍-Ifrane%2C_Morocco_🇲🇦-00d4ff?style=flat-square)
 ![Focus](https://img.shields.io/badge/🎯-Systems_%26_Cybersec-7c3aed?style=flat-square)
 
@@ -18,12 +18,15 @@
 ## 🧬 Who Am I?
 
 ```c
+#include <stdio.h>
+#include <stdbool.h>
+
 /*
- *  ▄▄▄       ███▄    █  ▄▄▄        ██████  ██████
+ * ▄▄▄    ███▄   █  ▄▄▄        ██████  ██████
  * ▒████▄     ██ ▀█   █ ▒████▄    ▒██    ▒ ▒██    ▒
  * ▒██  ▀█▄  ▓██  ▀█ ██▒▒██  ▀█▄  ░ ▓██▄   ░ ▓██▄
  * ░██▄▄▄▄██ ▓██▒  ▐▌██▒░██▄▄▄▄██   ▒   ██▒  ▒   ██▒
- *  ▓█   ▓██▒▒██░   ▓██░ ▓█   ▓██▒▒██████▒▒▒██████▒▒
+ * ▓█   ▓██▒▒██░   ▓██░ ▓█   ▓██▒▒██████▒▒▒██████▒▒
  */
 
 typedef struct {
@@ -31,7 +34,7 @@ typedef struct {
     char *location;
     char *role;
     char *learning;
-    char *tools[];
+    char *tools[10];
     bool  loves_c;
     char *motto;
 } Developer;
@@ -50,8 +53,6 @@ int main(void) {
     printf("True mastery starts at the lowest level.\n");
     return 0;
 }
-```
-
 ---
 
 ## 🐍 Watch Me Eat My Contributions
