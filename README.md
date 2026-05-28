@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ansettaf/gif/main/miku.gif" width="250" alt="Miku Header"/>
+  <img src="https://raw.githubusercontent.com/ansettaf/gif/main/miku.gif" width="100%" alt="Miku Header"/>
   
   <br/><br/>
 
